@@ -1,6 +1,6 @@
 
 Projeto # codechella!
-<img (src="(assets/imagens/footer/desktop/logo-cinza.png)")>
+
 
 Esse foi um projeto bem divertido de fazer. Deixei o mais parecido possível com o figma.
 
